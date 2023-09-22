@@ -17,7 +17,7 @@
       <p align="center">
         Olá! Sou o Vini, tenho 24 anos.<br>
         Estudante de tecnologia e apaixonado pela área, busco minha primeira oportunidade de trabalho no mercado tech. Desejo me desenvolver profissionalmente, contribuindo com valor tanto para a empresa quanto para minha carreira.
-        Iniciei meus estudos na área em 2021, quando um amigo me apresentou à lógica de programação e ao Portugol. Paralelamente, busquei capacitação por meio de cursos online e me inscrevi na DevMedia. Atualmente, estou participando da 17ª edição do programa Starter da Growdev. 
+        Iniciei meus estudos na área em 2021, quando um amigo me apresentou à lógica de programação e ao Portugol. Paralelamente, busquei capacitação por meio de cursos online. Atualmente, estou participando da 17ª edição do programa Starter da Growdev. 
         <br>
       </p>
    </body>
